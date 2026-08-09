@@ -1,0 +1,16 @@
+Project: AI-Based Anomaly Detection in Spacecraft Telemetry
+
+Steps to run:
+
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run dashboard:
+   streamlit run app.py
+
+3. Open browser:
+   http://localhost:8501
+
+Description:
+This project implements an Autoencoder-based anomaly detection system
+with an Autonomous Decision Support System (ADSS) and a Streamlit dashboard.
